@@ -1,6 +1,6 @@
 global.DeveloperMode = 'true' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Gj0kHatV2AoFyL2WyTTv2o']
-global.Owner = {
+global.Owner = {'6289525518325'}
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
   '6289525518325': { // put your number here
     name: 'Owner ELAINA-BOT/Creator BAYU OFC',
