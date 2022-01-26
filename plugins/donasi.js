@@ -1,11 +1,11 @@
 let handler = async m => m.reply(`
-╭─「 Donasi • Pulsa 」
-│ • Indosat [085713964963]
-│ • Gopay [085713964963]
+╭─「 Donasi • ELAINA-BOT 」
+│ • Telkomsel [081285866502]
+│ • Axis [083834441926]
+│ • Gopay [089525518325]
+│ • Dana [081285866502]
 ╰────
-╭─「 Hubungi 」
-│ > Ingin donasi? Wa.me/6281390658325
-╰────
+“Setiap orang berada di bawah naungan sedekahnya (pada hari kiamat) hingga diputuskan di antara manusia atau ia berkata: “Ditetapkan hukuman di antara manusia.” Yazid berkata: “Abul Khair tidak pernah melewati satu haripun melainkan ia bersedekah padanya dengan sesuatu, walaupun hanya sepotong kue atau bawang merah atau seperti ini.” (HR. Al-Baihqi, Al-Hakim dan Ibnu Khuzaimah).
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['info']
